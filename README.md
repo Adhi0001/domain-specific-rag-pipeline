@@ -1,6 +1,10 @@
-# domain-specific-rag-pipeline
-A custom Retrieval-Augmented Generation (RAG) pipeline built from scratch to eliminate LLM hallucinations for domain-specific QA.
-🚀 Overview
-This repository contains a complete Retrieval-Augmented Generation (RAG) pipeline engineered from scratch. It was built to address the limitations of Large Language Models (LLMs)—specifically hallucinations and outdated knowledge—by grounding the generation process in dynamically retrieved, domain-specific documents.
+## 🚀 Overview
 
-By combining information retrieval, vector embeddings, and natural language generation without relying on heavy abstraction frameworks, this project demonstrates a fundamental, under-the-hood understanding of modern RAG architecture.
+This repository contains a complete **Retrieval-Augmented Generation (RAG)** pipeline built from scratch. It addresses key limitations of Large Language Models (LLMs)—such as hallucinations and outdated knowledge—by grounding responses in dynamically retrieved, domain-specific data.
+
+The system combines:
+- Efficient document retrieval
+- Vector embeddings for semantic search
+- Context-aware natural language generation
+
+Unlike many implementations that rely on heavy abstraction frameworks, this project is designed to demonstrate a clear, foundational understanding of how modern RAG systems work under the hood.
